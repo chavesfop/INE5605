@@ -1,1 +1,2 @@
-# dsoo1
+# Desenvolvimento de Sistemas Orientados a Objetos I
+# UFSC
