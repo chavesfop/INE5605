@@ -46,4 +46,15 @@ public class Ponto implements Deslocavel  {
 	public void distanciaAte(Ponto p2){
 		Math.pow((Math.pow(this.normaX(p2),2)+Math.pow(this.normaY(p2),2)+Math.pow(this.normaZ(p2),2)), 0.5);
 	}
+
+	@Override
+	public void deslocarXY(float x, float y) {
+		this.x += x;
+		this.y += y;
+		
+	}
+	public void deslocarYZ(float y, float z) {
+		this.z += z;
+		this.y += y;
+	}
 }
