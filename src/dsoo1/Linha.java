@@ -34,16 +34,14 @@ public class Linha implements Deslocavel {
 
 	@Override
 	public void deslocarXY(float x, float y) {
-		this.p1.deslocarXY(x,y);
-		this.p2.deslocarXY(x,y);
+		this.deslocarX(x);
+		this.deslocarY(y);
 		
 	}
 
 	@Override
 	public void deslocarYZ(float y, float z) {
-		this.p1.deslocarYZ(y,z);
-		this.p2.deslocarYZ(y,z);
-		
-		
+		this.deslocarY(y);
+		this.deslocarZ(z);
 	}
 }
