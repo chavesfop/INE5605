@@ -1,2 +1,4 @@
+##### UFSC - 2016/01.
 # Desenvolvimento de Sistemas Orientados a Objetos I
-# UFSC
+####Repositório com exemplos e códigos comentados da disciplina.
+  
