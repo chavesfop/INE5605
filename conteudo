@@ -1,0 +1,44 @@
+6.1) 
+Introdução ao desenvolvimento de sistemas reusaveis de software [6 horas-aula]
+
+6.2) 
+Conceitos e mecanismos da programação orientada a objetos [24 horas-aula]
+- 
+Objetos e classes
+- 
+Herança e polimorfismo
+- 
+Classes abstratas e interfaces
+- 
+Diagramas de classes
+- 
+Bibliotecas de classes
+- 
+Tipos genéricos
+
+6.3) 
+Técnicas de uso comum em sistemas orientados a objetos [42 horas-aula]
+- 
+Interface gráfica com o usuário
+- 
+Tratamento de exceções
+- 
+Coleções
+- 
+Persistência de dados e objetos (serialização)
+
+6.4) 
+Práticas de Desenvolvimento de Software [36 horas-aula]
+- 
+Introdução a práticas/técnicas de desenvolvimento orientado a objetos.
+- 
+Construção de sistemas de software que demonstrem as características básicas da orientação a objetos.
+
+
+     )))
+    (((
+  +-----+
+  |     |]   Alguns bons livros:
+  `-----'    *BOOCH, G. Object-Oriented Analysis and Design with Applications, 2a Edição. Addison-Wesley, 1994.*
+___________  DEITEL, Harvey M.; DEITEL, Paul J. Java como programar. Porto Alegre: Bookman, 2001. 1202p
+`---------'
