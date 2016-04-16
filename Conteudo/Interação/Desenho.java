@@ -20,7 +20,9 @@ public class Desenho extends JPanel {
 	public void paintComponent(Graphics g) {
 		this.g = g;
 		super.paintComponent(this.g);
+		
 		this.renderFusca();
+		
 	}
 
 	private void renderFusca() {
@@ -32,5 +34,9 @@ public class Desenho extends JPanel {
 		this.g.drawArc(18 + this.x, 135, 30, 30, 180, 180); //roda trazeira
 		this.g.drawArc(113 + this.x, 135, 30, 30, 180, 180); //roda dianteira
 		this.g.drawLine(0, 150 + 15, 400, 150 + 15); //chao
+	}
+	
+	private void renderRetangulo() {
+		this.g.drawRect()
 	}
 }
