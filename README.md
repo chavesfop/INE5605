@@ -1,6 +1,6 @@
-#####UFSC - 2016/01.
-##Desenvolvimento de Sistemas Orientados a Objetos I
-####Repositório com exemplos e códigos comentados da disciplina.<br />
+##### UFSC - 2016/01.
+## Desenvolvimento de Sistemas Orientados a Objetos I
+#### Repositório com exemplos e códigos comentados da disciplina.<br />
 
 Exemplo de códigos em:
 <ul><li>Java</li>
@@ -9,7 +9,7 @@ Exemplo de códigos em:
 
 <br />
 
-#####Conteúdo
+##### Conteúdo
 
 <ol>
 <li>Introdução ao desenvolvimento de sistemas reusaveis de software</li>
